@@ -1,0 +1,4 @@
+Bruce Wayne,Ember,Batman,100,50
+Clark Cent,Kryptonian,Superman,100,100
+Peter Parker,Ember,Spiderman,100,150
+Pud Lee,Ember,Hangya,30,15

@@ -1,0 +1,4 @@
+Batman egy szuperhős, akinek szuperereje 50 és 100 jótettet hajtott végre.
+Superman egy szuperhős, akinek szuperereje 100 és 100 jótettet hajtott végre.
+Spiderman egy szuperhős, akinek szuperereje 150 és 100 jótettet hajtott végre.
+Hangya egy szuperhős, akinek szuperereje 15 és 30 jótettet hajtott végre.
